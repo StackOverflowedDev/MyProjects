@@ -1,0 +1,52 @@
+[
+{
+  "model": "myapp.product",
+  "pk": 2,
+  "fields": {
+    "name": "DJI Phantom 4",
+    "sell_price": "499.99",
+    "image": "product_images/IMG_3743.jpg",
+    "description": "DJI Phantom, Excellent Condition"
+  }
+},
+{
+  "model": "myapp.product",
+  "pk": 3,
+  "fields": {
+    "name": "Mini Drone 1",
+    "sell_price": "299.00",
+    "image": "product_images/IMG_3745.jpg",
+    "description": ""
+  }
+},
+{
+  "model": "myapp.product",
+  "pk": 10,
+  "fields": {
+    "name": "Mini Drone 2",
+    "sell_price": "399.00",
+    "image": "product_images/IMG_3746.jpg",
+    "description": ""
+  }
+},
+{
+  "model": "myapp.product",
+  "pk": 11,
+  "fields": {
+    "name": "Remote 1",
+    "sell_price": "150.00",
+    "image": "product_images/IMG_3748.jpg",
+    "description": ""
+  }
+},
+{
+  "model": "myapp.product",
+  "pk": 13,
+  "fields": {
+    "name": "FPV Remote",
+    "sell_price": "900.00",
+    "image": "product_images/IMG_3749.jpg",
+    "description": ""
+  }
+}
+]
